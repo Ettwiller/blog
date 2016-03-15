@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "The applications behind Cappable-seq"
 date:   2016-03-15 12:02:16 -0400
 categories: jekyll update
 ---
