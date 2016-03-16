@@ -7,7 +7,9 @@ published: true
 ---
 
 
-[Cappable-seq][Cappable-seq] is a new technology to capture in a specific manner 5' triphostphate RNA. Triphosphate RNA are universally found in nature but only a specific subset of RNA are triphosphate. 
+[Cappable-seq][Cappable-seq] is a new technology to capture in a specific manner 5' triphostphate RNA. Triphosphate RNA are universally found in nature but only a specific subset of RNA are triphosphate and that is primary transcripts prior to any post-transcriptional modifications on the 5'end such as capping. 
+
+What makes the technology so appealing 
 
 
 [Cappable-seq]: http://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2539-z
