@@ -10,7 +10,7 @@ published: true
 
 [Cappable-seq][Cappable-seq] is a new technology to capture in a specific manner 5' triphostphate RNA. Triphosphate RNA are universally found in nature but only a specific subset of RNA are triphosphorylated; those are primary transcripts prior to any post-transcriptional modifications on the 5'end. 
 
-What makes this technology so appealing is its versatility of applications. We have used this technology to precisely identify transcription start site in [bacteria][Cappable-seq] but that is only one of many possible applications. 
+What makes this technology so appealing is its versatility of applications. We have used this technology to precisely identify transcription start sites at base resolution in culture [bacteria][Cappable-seq] and for the first time outperform all existing technologies for TSS determination in prokaryotes. Apply to 
 
 
 
