@@ -18,9 +18,7 @@ Apply to a microbiome, Cappable-seq perform as well as in isolated culture of ba
 
 Because ribosomal transcripts are typically processed, Cappable-seq has the added bonus to naturally remove ribosomal transcripts regardeless of sequence homology. Ribosomal RNA only account for ~5% of the reads after Cappable-seq instead of the 80-90% typically achieve if no ribosomal removal technologies are used. This is true for isolated culture or complex microbiome. 
 
-
-
-What makes this technology so appealing is its versatility of applications. or example ribosomal RNA is universally removed. 
+But that's not all, what makes this technology so appealing is its versatility of applications. While we have been focus on prokaryotic TSS, Cappable-seq can can be used to sequence transcriptomes and garranties full length of the transcript, at least on the 5'end side. 
 
 
 
