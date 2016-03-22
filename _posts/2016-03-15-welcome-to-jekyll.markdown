@@ -21,7 +21,9 @@ Because ribosomal transcripts are typically processed, Cappable-seq has the adde
 
 But that's not all, what makes this technology so appealing is its versatility of applications. While we have been focus on prokaryotic TSS, Cappable-seq can can be used to sequence transcriptomes and garranties full length of transcripts, at least on the 5'end side. 
 
-In Eukarotes, Cappable-seq is highlighting interesting subpopulation of transcripts. Contrary to prokaryotes, Eukaryotes nascent transcripts are quickly processed at the 5' end and the triphophophylated 5'end is remplaced by a CAP structure. Very few transcripts are believe to have an intact triphosphorylated end mostly because triphosphate RNA is a signal for infection by bacteria or viruses. Nonetheless transcripts from RNA polymerase I and III are triphosphorylated 
+In Eukarotes, Cappable-seq is highlighting interesting subpopulation of transcripts. Contrary to prokaryotes, Eukaryotes nascent transcripts are quickly processed at the 5' end and the triphophophylated 5'end is remplaced by a CAP structure. Very few transcripts are believe to have an intact triphosphorylated end mostly because triphosphate RNA is a signal for infection by bacteria or viruses. Nonetheless transcripts from RNA polymerase I and III are triphosphorylated such as the 5S ribosomal RNA, SK7 and LS7. These transcripts are captured by Cappable-seq. 
+
+
 
 
 
