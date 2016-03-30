@@ -17,11 +17,11 @@ The method captures the prokaryotic transcripts by their 5’end. If the RNA sam
 While the vast majority of the 5’ end of transcripts in eukaryotes are either capped or 5’ monophosphate, some minor quantity of eukaryotic transcripts will be 5' triphosphate and enriched together with the bacterial transcripts.  Those are transcripts derived from the RNA polymerase I and III such as 5S, 7SK.
 
 [3] Library construction.
-The library construction from full length RNA will be different from the strategy described in Ettwiller et. al., for TSS determination. Once the captured RNA is removed from the streptavidin beads and purified, the RNA is available to use your preferred protocol for library preparation
+The library construction from full length RNA will be different from the strategy described in [Ettwiller et. al.][Cappable-seq], for TSS determination. Once the captured RNA is removed from the streptavidin beads and purified, the RNA is available to use your preferred protocol for library preparation
 
 [4] Primary transcripts.
 Conventional RNA-seq experiments determine the relative amounts of all RNA’s in a sample. On the other hand Cappable-seq identifies and quantifies the primary transcriptome by distinguishing the initiating 5’ nucleotide incorporated by the RNA polymerase from all the other 5’ ends that arise due to processing. Therefore the transcriptome defined by Cappable-seq represents the primary transcriptome. 
 
 
-
+[Cappable-seq]: http://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2539-z
 
