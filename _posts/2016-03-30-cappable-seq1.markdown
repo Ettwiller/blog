@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Considerations for Cappable-seq as a method for whole transcriptome sequencing of prokaryotes."
-date: "2016-03-15 12:02:16 -0400"
+date: "2016-03-30 12:02:16 -0400"
 categories: jekyll update
 published: true
 ---
