@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The applications behind Cappable-seq"
+title: "Considerations for Cappable-seq as a method for whole transcriptome sequencing of prokaryotes"
 date: "2016-03-30 12:02:16 -0400"
 categories: Cappable-seq
 published: true
